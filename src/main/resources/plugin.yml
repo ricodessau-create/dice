@@ -1,0 +1,9 @@
+name: DicePlugin
+version: 1.0
+main: de.dice.DicePlugin
+api-version: '1.21'
+commands:
+  dice:
+    description: Würfelt eine Zahl und zeigt sie als Kopf an.
+    usage: /dice [anzahl]
+    
